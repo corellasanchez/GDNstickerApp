@@ -15,34 +15,54 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "WA1.webp",
+          "image_file": "Neo_aburrido.webp",
           "emojis": [
-            "🥰"
+            "💤"
           ]
         },
         {
-          "image_file": "WA2.webp",
+          "image_file": "Neo_bravo.webp",
           "emojis": [
-            "😂"
+            "😡"
           ]
         },
         {
-          "image_file": "WA3.webp",
+          "image_file": "Neo_ew.webp",
           "emojis": [
-            "😩"
+            "😙"
           ]
         },
         {
-          "image_file": "WA4.webp",
+          "image_file": "Neo_folcklor.webp",
           "emojis": [
-            "😅"
+            "🥳"
           ]
         },
         {
-          "image_file": "WA5.webp",
+          "image_file": "Neo_full.webp",
+          "emojis": [
+            "🥰",
+            "😍",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "Neo_sad.webp",
           "emojis": [
             "😭",
             "💧"
+          ]
+        },
+        {
+          "image_file": "Neo_holi.webp",
+          "emojis": [
+            "😇"
+          ]
+        },
+        {
+          "image_file": "Neo_shame.webp",
+          "emojis": [
+            "😳"
           ]
         }
       ]
