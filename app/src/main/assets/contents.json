@@ -1,7 +1,94 @@
 {
-  "android_play_store_link": "",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.gatodenube.stickerapp",
   "ios_app_store_link": "",
   "sticker_packs": [
+    {
+      "identifier": "gatodenube",
+      "name": "GATO DE NUBE",
+      "publisher": "Línea de ilustraciones inspiradas en gatos de\ncolores de la artista Caro Marcenaro.",
+      "tray_image_file": "icon_gatodenube.webp",
+      "image_data_version": "1",
+      "avoid_cache": true,
+      "publisher_email": "gatodenube@gmail.com",
+      "publisher_website": "https://www.facebook.com/elgatodenube/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "WA1.webp",
+          "emojis": [
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "WA2.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "WA3.webp",
+          "emojis": [
+            "❤️",
+            "❣️"
+          ]
+        },
+        {
+          "image_file": "WA4.webp",
+          "emojis": [
+            "😡️"
+          ]
+        },
+        {
+          "image_file": "WA5.webp",
+          "emojis": [
+            "🥰️"
+          ]
+        },
+        {
+          "image_file": "WA6.webp",
+          "emojis": [
+            "✋"
+          ]
+        },
+        {
+          "image_file": "WA7.webp",
+          "emojis": [
+            "😉️"
+          ]
+        },
+        {
+          "image_file": "WA8.webp",
+          "emojis": [
+            "🥲️"
+          ]
+        },
+        {
+          "image_file": "WA9.webp",
+          "emojis": [
+            "💤"
+          ]
+        },
+        {
+          "image_file": "WA10.webp",
+          "emojis": [
+            "😅️"
+          ]
+        },
+        {
+          "image_file": "WA11.webp",
+          "emojis": [
+            "😘"
+          ]
+        },
+        {
+          "image_file": "WA12.webp",
+          "emojis": [
+            "🙏"
+          ]
+        }
+      ]
+    },
     {
       "identifier": "catrix_stickers",
       "name": "CATRIX - catrix.org",
